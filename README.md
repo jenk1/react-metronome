@@ -1,4 +1,4 @@
-#Metronome
+## Metronome
 
 A metronome app written using React 
 
